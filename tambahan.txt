@@ -1,6 +1,12 @@
+coolrom.com.au
+romsfun.com
+vimm.net
+dns.google
+logs.av380.net
+sgplog.ezvizlife.com
 olo_ad.stream
 wattpad.com
-codecguide.com^$important
+codecguide.com
 paper.id
 nekolink.site
 ausoafab.net
@@ -499,3 +505,4 @@ teslarati-com-edge.ntv.io
 v10.events.data.microsoft.com
 whoami.akamai.net
 Dartsearch.net
+
